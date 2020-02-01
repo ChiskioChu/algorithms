@@ -2,7 +2,6 @@ package Stack;
 
 /**
  * 链表实现为链式栈；数组实现为顺序栈
- *
  */
 public class Mystack {
     // 基于数组实现的顺序栈
