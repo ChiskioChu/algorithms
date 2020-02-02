@@ -1,9 +1,9 @@
 package Stack;
 
 /**
- * 链表实现为链式栈；数组实现为顺序栈
+ * 数组实现为顺序栈
  */
-public class Mystack {
+public class MystackArray {
     // 基于数组实现的顺序栈
     public class ArrayStack {
         private String[] items;  // 数组
